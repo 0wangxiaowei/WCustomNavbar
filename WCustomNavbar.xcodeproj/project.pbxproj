@@ -13,6 +13,20 @@
 		18ABD24D1C1FF1E5007DE2A8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD24B1C1FF1E5007DE2A8 /* LaunchScreen.storyboard */; };
 		18ABD2581C1FF1E6007DE2A8 /* WCustomNavbarTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ABD2571C1FF1E6007DE2A8 /* WCustomNavbarTests.m */; };
 		18ABD2631C1FF1E6007DE2A8 /* WCustomNavbarUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ABD2621C1FF1E6007DE2A8 /* WCustomNavbarUITests.m */; };
+		18ABD2851C1FF225007DE2A8 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ABD2711C1FF225007DE2A8 /* BaseViewController.m */; };
+		18ABD2861C1FF225007DE2A8 /* addh.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD2731C1FF225007DE2A8 /* addh.png */; };
+		18ABD2871C1FF225007DE2A8 /* 动态.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD2741C1FF225007DE2A8 /* 动态.png */; };
+		18ABD2881C1FF225007DE2A8 /* 励志.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD2751C1FF225007DE2A8 /* 励志.png */; };
+		18ABD2891C1FF225007DE2A8 /* 娱乐.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD2761C1FF225007DE2A8 /* 娱乐.png */; };
+		18ABD28A1C1FF225007DE2A8 /* 感情.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD2771C1FF225007DE2A8 /* 感情.png */; };
+		18ABD28B1C1FF225007DE2A8 /* 热门.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD2781C1FF225007DE2A8 /* 热门.png */; };
+		18ABD28C1C1FF225007DE2A8 /* 社会.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD2791C1FF225007DE2A8 /* 社会.png */; };
+		18ABD28D1C1FF225007DE2A8 /* 科技.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD27A1C1FF225007DE2A8 /* 科技.png */; };
+		18ABD28E1C1FF225007DE2A8 /* 美食.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD27B1C1FF225007DE2A8 /* 美食.png */; };
+		18ABD28F1C1FF225007DE2A8 /* 财经.png in Resources */ = {isa = PBXBuildFile; fileRef = 18ABD27C1C1FF225007DE2A8 /* 财经.png */; };
+		18ABD2901C1FF225007DE2A8 /* MKTChannelVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ABD27F1C1FF225007DE2A8 /* MKTChannelVC.m */; };
+		18ABD2911C1FF225007DE2A8 /* TLDragButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ABD2811C1FF225007DE2A8 /* TLDragButton.m */; };
+		18ABD2921C1FF225007DE2A8 /* WXWitemsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 18ABD2831C1FF225007DE2A8 /* WXWitemsView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +60,25 @@
 		18ABD25E1C1FF1E6007DE2A8 /* WCustomNavbarUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WCustomNavbarUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18ABD2621C1FF1E6007DE2A8 /* WCustomNavbarUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WCustomNavbarUITests.m; sourceTree = "<group>"; };
 		18ABD2641C1FF1E6007DE2A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18ABD2701C1FF225007DE2A8 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
+		18ABD2711C1FF225007DE2A8 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
+		18ABD2731C1FF225007DE2A8 /* addh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = addh.png; sourceTree = "<group>"; };
+		18ABD2741C1FF225007DE2A8 /* 动态.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态.png"; sourceTree = "<group>"; };
+		18ABD2751C1FF225007DE2A8 /* 励志.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "励志.png"; sourceTree = "<group>"; };
+		18ABD2761C1FF225007DE2A8 /* 娱乐.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "娱乐.png"; sourceTree = "<group>"; };
+		18ABD2771C1FF225007DE2A8 /* 感情.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "感情.png"; sourceTree = "<group>"; };
+		18ABD2781C1FF225007DE2A8 /* 热门.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "热门.png"; sourceTree = "<group>"; };
+		18ABD2791C1FF225007DE2A8 /* 社会.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "社会.png"; sourceTree = "<group>"; };
+		18ABD27A1C1FF225007DE2A8 /* 科技.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "科技.png"; sourceTree = "<group>"; };
+		18ABD27B1C1FF225007DE2A8 /* 美食.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "美食.png"; sourceTree = "<group>"; };
+		18ABD27C1C1FF225007DE2A8 /* 财经.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "财经.png"; sourceTree = "<group>"; };
+		18ABD27E1C1FF225007DE2A8 /* MKTChannelVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MKTChannelVC.h; sourceTree = "<group>"; };
+		18ABD27F1C1FF225007DE2A8 /* MKTChannelVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MKTChannelVC.m; sourceTree = "<group>"; };
+		18ABD2801C1FF225007DE2A8 /* TLDragButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TLDragButton.h; sourceTree = "<group>"; };
+		18ABD2811C1FF225007DE2A8 /* TLDragButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TLDragButton.m; sourceTree = "<group>"; };
+		18ABD2821C1FF225007DE2A8 /* WXWitemsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WXWitemsView.h; sourceTree = "<group>"; };
+		18ABD2831C1FF225007DE2A8 /* WXWitemsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WXWitemsView.m; sourceTree = "<group>"; };
+		18ABD2841C1FF225007DE2A8 /* WCustomnavbar-PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "WCustomnavbar-PrefixHeader.pch"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +131,11 @@
 			children = (
 				18ABD2461C1FF1E5007DE2A8 /* AppDelegate.h */,
 				18ABD2471C1FF1E5007DE2A8 /* AppDelegate.m */,
+				18ABD2701C1FF225007DE2A8 /* BaseViewController.h */,
+				18ABD2711C1FF225007DE2A8 /* BaseViewController.m */,
+				18ABD2721C1FF225007DE2A8 /* images */,
+				18ABD27D1C1FF225007DE2A8 /* thelibs */,
+				18ABD2841C1FF225007DE2A8 /* WCustomnavbar-PrefixHeader.pch */,
 				18ABD2491C1FF1E5007DE2A8 /* Assets.xcassets */,
 				18ABD24B1C1FF1E5007DE2A8 /* LaunchScreen.storyboard */,
 				18ABD24E1C1FF1E5007DE2A8 /* Info.plist */,
@@ -130,6 +168,36 @@
 				18ABD2641C1FF1E6007DE2A8 /* Info.plist */,
 			);
 			path = WCustomNavbarUITests;
+			sourceTree = "<group>";
+		};
+		18ABD2721C1FF225007DE2A8 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				18ABD2731C1FF225007DE2A8 /* addh.png */,
+				18ABD2741C1FF225007DE2A8 /* 动态.png */,
+				18ABD2751C1FF225007DE2A8 /* 励志.png */,
+				18ABD2761C1FF225007DE2A8 /* 娱乐.png */,
+				18ABD2771C1FF225007DE2A8 /* 感情.png */,
+				18ABD2781C1FF225007DE2A8 /* 热门.png */,
+				18ABD2791C1FF225007DE2A8 /* 社会.png */,
+				18ABD27A1C1FF225007DE2A8 /* 科技.png */,
+				18ABD27B1C1FF225007DE2A8 /* 美食.png */,
+				18ABD27C1C1FF225007DE2A8 /* 财经.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		18ABD27D1C1FF225007DE2A8 /* thelibs */ = {
+			isa = PBXGroup;
+			children = (
+				18ABD27E1C1FF225007DE2A8 /* MKTChannelVC.h */,
+				18ABD27F1C1FF225007DE2A8 /* MKTChannelVC.m */,
+				18ABD2801C1FF225007DE2A8 /* TLDragButton.h */,
+				18ABD2811C1FF225007DE2A8 /* TLDragButton.m */,
+				18ABD2821C1FF225007DE2A8 /* WXWitemsView.h */,
+				18ABD2831C1FF225007DE2A8 /* WXWitemsView.m */,
+			);
+			path = thelibs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,8 +303,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18ABD28D1C1FF225007DE2A8 /* 科技.png in Resources */,
+				18ABD2881C1FF225007DE2A8 /* 励志.png in Resources */,
 				18ABD24A1C1FF1E5007DE2A8 /* Assets.xcassets in Resources */,
 				18ABD24D1C1FF1E5007DE2A8 /* LaunchScreen.storyboard in Resources */,
+				18ABD2871C1FF225007DE2A8 /* 动态.png in Resources */,
+				18ABD2891C1FF225007DE2A8 /* 娱乐.png in Resources */,
+				18ABD28F1C1FF225007DE2A8 /* 财经.png in Resources */,
+				18ABD2861C1FF225007DE2A8 /* addh.png in Resources */,
+				18ABD28E1C1FF225007DE2A8 /* 美食.png in Resources */,
+				18ABD28C1C1FF225007DE2A8 /* 社会.png in Resources */,
+				18ABD28B1C1FF225007DE2A8 /* 热门.png in Resources */,
+				18ABD28A1C1FF225007DE2A8 /* 感情.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,7 +340,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				18ABD2481C1FF1E5007DE2A8 /* AppDelegate.m in Sources */,
+				18ABD2911C1FF225007DE2A8 /* TLDragButton.m in Sources */,
+				18ABD2851C1FF225007DE2A8 /* BaseViewController.m in Sources */,
 				18ABD2451C1FF1E5007DE2A8 /* main.m in Sources */,
+				18ABD2921C1FF225007DE2A8 /* WXWitemsView.m in Sources */,
+				18ABD2901C1FF225007DE2A8 /* MKTChannelVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -395,6 +477,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREFIX_HEADER = "/Users/apple/Desktop/WCustomNavbar/WCustomNavbar/WCustomnavbar-PrefixHeader.pch";
 				INFOPLIST_FILE = WCustomNavbar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = w.WCustomNavbar;
@@ -406,6 +489,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				GCC_PREFIX_HEADER = "/Users/apple/Desktop/WCustomNavbar/WCustomNavbar/WCustomnavbar-PrefixHeader.pch";
 				INFOPLIST_FILE = WCustomNavbar/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = w.WCustomNavbar;

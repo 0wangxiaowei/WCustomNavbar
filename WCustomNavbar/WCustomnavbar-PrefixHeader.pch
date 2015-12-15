@@ -1,0 +1,26 @@
+//
+//  Sayimo-PrefixHeader.pch
+//  Sayimo
+//
+//  Created by meiB on 15-5-25.
+//  Copyright (c) 2015年 Brodengate. All rights reserved.
+//
+
+
+
+
+
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+#define kScreenHeight   [UIScreen mainScreen].bounds.size.height
+#define kScreenWidth   [UIScreen mainScreen].bounds.size.width
+/*
+ 2. 颜色定义RGB宏函数
+ */
+#define RGB(R,G,B) [UIColor colorWithRed:R/255.0f green:G/255.0f blue:B/255.0f alpha:1.0f]
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#endif
