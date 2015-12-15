@@ -60,7 +60,8 @@
     _itemControlView.titleArray = _titeArr;
     
     _itemControlView.delegate1 = self;
-
+   [self.view addSubview:_itemControlView];
+    
     UIButton *addBtn = [UIButton buttonWithType:UIButtonTypeCustom];
     [addBtn setImage:[UIImage imageNamed:@"addh"] forState:UIControlStateNormal];
     [self.view addSubview:addBtn];
@@ -68,7 +69,7 @@
     [addBtn addTarget:self action:@selector(addBtn) forControlEvents:UIControlEventTouchUpInside];
     
     
-    [self.view addSubview:_itemControlView];
+ 
     
     
 //    [self creatHeardView];
