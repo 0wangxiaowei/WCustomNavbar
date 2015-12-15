@@ -14,4 +14,4 @@
    [self.view addSubview:_itemControlView];
 ```
 ##效果图
-![效果](https://github.com/0wangxiaowei/WCustomNavbar/blob/master/WCustomNavbar/iron/effect.gif)  
+[效果](https://github.com/0wangxiaowei/WCustomNavbar/blob/master/WCustomNavbar/iron/effect.gif)  
